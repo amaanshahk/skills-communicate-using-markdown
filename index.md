@@ -12,3 +12,8 @@
 ``` javascript
 var myVar = "I am gonna be King of the Pirates!";
 ```
+
+
+- [ ] Set Sail
+- [ ] Gather a Crew
+- [ ] Reach Laughtale
